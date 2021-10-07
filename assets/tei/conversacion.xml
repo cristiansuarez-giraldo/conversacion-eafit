@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conversación entre un zapatero y un agrícola de Facatativá sobre la <corr>cacería</corr> del Sábado Santo</title>
+            <author>Anónimo</author>
+            <editor>Cristian Suárez-Giraldo</editor>
+            <editor>Andrés Vélez Cardona</editor>
+            <editor>María Camila Euse Lombo</editor>
+            <editor>María José Mejía Vélez</editor>
+            <editor>Michelle Grecille Osepa Mazo</editor>
+            <editor>Martín Del Valle Uribe</editor>
+            <editor>Sara Zuluaga Correa</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher>José Ayarza</publisher>
+         <date when="1839-04">Abril de 1839</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+
+<pb n="2"/>
+
+<p><lb/><corr>Dígame</corr> compadre Juan, ¿en <corr>qué</corr> ha consistido 
+<lb/>que desde el <reg>domingo</reg> de Pascua cuantos campesi­nos
+<lb/>han pasado por <corr>aquí</corr> han ido todos ellos con 
+<lb/>una máquina de perros? —Pues <corr>qué</corr> ha de ser, sino 
+<lb/>que como el Sábado Santo <reg>fue</reg> la <corr>cacería</corr> grande toditos
+<lb/>hemos estado en la <corr>diversión</corr> y algunos se han 
+<lb/>estado hasta hoy por allá— ¿Con <corr>qué</corr> por lo que <sic>es</sic> 
+<lb/>cuenta <abbr>U.</abbr> <corr>también</corr> es <corr>cazador</corr> no? —No si no que 
+<lb/><reg>no</reg>, ¿<corr>qué</corr> <corr>orejón</corr> como yo habrá en el <corr>día</corr> que no
+<lb/>sea <corr>cazador</corr>, y no solo nosotros los orejones, sino 
+<lb/>hasta la <corr>gente</corr> del pueblo de <corr>aquí</corr> de la <name type="placeGeog">ciudad</name>?
+<lb/>—Bueno está, pero <corr>dígame</corr> compadre<corr>.</corr> Yo he visto 
+<lb/><reg>a</reg> muchos que no han estado en <corr>cacería</corr> estos <corr>días</corr>
+<lb/>y han sacado de <corr>aquí</corr> muchos perros para la <name type="place"><corr>Sa­bana</corr></name>.
+<lb/>—¡Ah mire qué! Pues eso es porque como 
+<lb/>ahora hay tan buenas razas de perros, y principalmente
+
+<pb n="3"/>
+
+<lb/>los de un <abbr>D.</abbr> Antonio Lesme, <reg>o</reg> Velas 
+<lb/>que no tengo bien presente, son superiores para la
+<lb/><corr>cacería</corr>, aunque son mastines, y de esta raza es 
+<lb/>principalmente que todos nosotros hemos comprado, 
+<lb/>no <corr>solo</corr> para nosotros sino para repartirlos <reg>también</reg> 
+<lb/>entre los amigos, <corr>porque</corr> todos estamos citados 
+<lb/>para un <corr>día</corr> de estos venirnos todos para acá <reg>a</reg> una
+<lb/><corr>cacería</corr> muy grande; y <abbr>U.</abbr> <corr>también</corr> nos ha de acompañar;
+<lb/><corr>porque</corr> la cosa para que esté <corr>más</corr> buena 
+<lb/>ha de ser en <corr>compañía</corr> con los amigos de <corr>aquí</corr>
+<lb/>­—Eso <reg>si</reg> que <reg>no</reg> compadre, yo no lo acompaño yo
+<lb/>no tengo ganas de gastar plata —¿<reg>Qué</reg> plata tiene 
+<lb/>que gastar?... ¡vaya!... gran cosa se necesita para 
+<lb/>esto; con un par de perros de <abbr>D.</abbr>Antonio, que no 
+<lb/>son caros; el rejo de enlazar y una escopeta, <reg>o</reg> aun­que
+<lb/>sea una carabina, que <reg>a</reg> nadie le falta, un poco 
+<lb/>de pólvora y unas <reg>balitas</reg>, cate compuesto ya el 
+<lb/>negocio para pasar un <reg>día</reg> divertido, y nos volve­mos
+<lb/><reg>a</reg> nuestras casas con nuestros, machos bien gordos
+­<lb/>atravesados en las <reg>ancas</reg> <reg>o</reg> sobre los caballos 
+<lb/>de carga como trajeron <corr>aquí</corr> <reg>a</reg> <name type="place">Santafé</name>, de por aquel 
+<lb/>lado de <name type="place">Yomasa</name>, ciertos cazadores un venado, que les 
+<lb/>regalaron <corr>a</corr> los padres de <abbr>Sto.</abbr> Domingo. ¡Ah compadre
+<lb/>­que estoy que me lambo! —Con todo eso 
+<lb/>compadre no me meto en esas <corr>porque</corr>, yo sé que 
+<lb/><abbr>D.</abbr> Justo Castro impide esta <reg>diversión</reg> en sus tierras,
+<lb/>que es <corr>donde</corr> <abbr>Utds.</abbr> quieren ir, y yo no quiero 
+<lb/>cuentos con ese <abbr>Sr.</abbr> porque <reg>es que</reg> es muy bravo y
+
+<pb n="4"/>
+
+<lb/>ha dejado bien escarmentados <reg>a</reg> algunos; principalmente 
+<lb/><reg>a</reg> unos que fueron una <corr>ocasión</corr> con un español 
+<lb/>que los convidó y con <orig>ñor</orig> Acero —¡A mi
+<lb/>compadre para ser majadero! ¿<corr>Pues</corr> no sabe que
+<lb/> <abbr>D.</abbr> Justo ya no manda en la <name type="placeGeog">hacienda</name>, <corr>porque</corr> ya
+<lb/>está en el mundo de la verdad (Dios lo tenga en 
+<lb/>descanso) pero aunque viviera ¿<abbr>Ud.</abbr> cree que <corr>levantándose</corr> 
+<lb/>tantos venados como se han levantado 
+<lb/>ahora, aunque <abbr>D.</abbr> Justo, y otro de más <corr>bigotes</corr> que
+<lb/><abbr>D.</abbr> Justo mandara allá, <corr>reuniéndonos</corr> todos, no lo
+<lb/><corr>metíamos</corr> entre un cacho y lo <corr>tapábamos</corr> con otro,
+<lb/>aunque tuviera <corr>más</corr> consertados con escopetas que
+<lb/>chinche? ¡Vaya! ¡vaya!, no sea sonso compadre<sic>!</sic>
+<lb/>las veces que él los asustó consistió en que no todos 
+<lb/>pensaban lo mismo, y en que no habian visto
+<lb/>el <sic>venao</sic> de San Ustaquie en riesgo, aquel venado 
+<lb/>con Cristo que <abbr>U.</abbr> ha visto en la <name type="placeGeog">Iglesia</name>. En 
+<lb/>fin <abbr>U.</abbr> dice eso porque no sabe lo sabroso que es
+<lb/>un convite de estos —Sí será, pero <corr>también</corr> se arriesga 
+<lb/>uno mucho— No sea majadero compadre, le
+<lb/>repito qué riesgo ni <sic>juan</sic> riesgo, de lo que menos 
+<lb/>se acuerda uno entonces es de eso, por que en levantando 
+<lb/>venado y dando un grito se acabó el 
+<lb/>miedo y se bota uno, por el salto de <name type="placeGeog">Tequendama</name>, 
+<lb/>si se presenta; mire compadre si <corr>hubiéramos</corr>
+<lb/>estado citados algunos para los otros <corr>días</corr>, sepase
+<lb/>que nos <corr>habíamos</corr> divertido, porque levantamos, andando
+<lb/>por <corr>aquí</corr> arriba, sin pensar dos <corr>ciervos</corr> que
+
+<pb n="5"/>
+
+<lb/>grandes, y se nos fueron. Ambos los levantó <corr>Bucaramanga</corr>
+<lb/>el perrito llanero de <orig>ñor</orig> Pancho, pero el diablo
+<lb/>del perro aquel de <name type="place">Tocaima</name> que estaba agazapado
+<lb/>les salió al encuentro, <reg>a</reg> mal tiempo y los hizo esconder 
+<lb/>otra vez, y no los dejó salir allá <reg>a</reg> los de la
+<lb/>otra parada, donde estaba <orig>ñor</orig> Pancho, primo Vicente 
+<lb/>y aquel chino concertado de <name type="place"><orig>Atogrande</orig></name> que 
+<lb/>llaman trompeta —pero <reg>a</reg> Dios que me llama allí
+<lb/>mi comadre, hasta lueguito; pues <corr>voy</corr> a avisarle, que 
+<lb/>ya no se casan los <corr>clérigos</corr>.
+</p>
+
+<p><hi rendition="simple:italic">Bogotá Abril</hi> 3 de 1839. —<hi rendition="simple:italic">Impreso por José Ayarza</hi>.</p>
+</div>
+      </body>
+  </text>
+</TEI>

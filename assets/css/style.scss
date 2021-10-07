@@ -1,0 +1,44 @@
+---
+sitemap: false
+---
+
+
+/*
+  Common Variables
+
+  Feel free to change!
+*/
+
+/* Fonts */
+$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$heading-font: serif;
+$regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+
+
+/*
+  Color
+
+  Make sure to leave color-scheme in `_config.yml` file empty for granular control
+*/
+
+$text-color: #5A2C2C;
+$heading-color: #8B909A;
+$link-color: #CE5747;
+
+@import "ed";
+@import "syntax";
+@import "CETEIcean.css";
+
+.avatares {
+  border-radius: 10%;
+  width: 250px;
+  display: float;
+margin:auto;
+}
+
+.parrafo:first-letter{
+  font-size:400%;
+  float:left;
+  color:#CE5747;
+  margin:8px;
+}
